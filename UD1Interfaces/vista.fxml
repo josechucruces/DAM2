@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+
+<!-- Pane raíz -->
+<Pane xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="Controller"
+      fx:id="rootPane"
+      prefWidth="1000" prefHeight="500"/>
